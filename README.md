@@ -1,5 +1,5 @@
 # Hackingtosh-HP-DesktopMini-800G4-Monterey
- This an EFI folder for Hackingtosh HP DesktopMini 800G4 Monterey
+ This is an EFI folder for Hackingtosh HP DesktopMini 800G4 Monterey
  
  Now is OC 0.78
  
